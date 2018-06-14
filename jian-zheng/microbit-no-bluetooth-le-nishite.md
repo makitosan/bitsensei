@@ -1,7 +1,3 @@
----
-description: 'Web Bluetooth API を使用し Chrome と micro:bit　を接続してどの程度のことまで可能なのか技術的な検証を行う'
----
-
 # micro:bit の Bluetooth LE に関して
 
 ## 複数接続
