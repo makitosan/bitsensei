@@ -1,6 +1,6 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [micro:bit の Bluetooth LE に関して](microbit-no-bluetooth-le-nishite.md)
-* [検証](undefined.md)
+* [検証](verify/README.md)
+  * [micro:bit の Bluetooth LE に関して](verify/ble.md)
 
