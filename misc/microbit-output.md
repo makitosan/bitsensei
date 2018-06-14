@@ -15,5 +15,11 @@ description: 'micro:bit の output が貧素なので使える材料をリスト
   * スイッチ
   * スピーカー
 
+### 100円ショップ材料を使った事例
+
+* [クリスマスイルミネーションを使ったもの](http://fabkominka.pigmal.com/blog/2017/12/15/microbit1/)
+* [ドアセンサーを使ったもの](http://www.ogaworks.com/archives/10091)
+* [スピーカーを使ったもの](https://studio.beatnix.co.jp/kids-it/hardware/chibi-bit/microbit-speech/)
+
 
 
