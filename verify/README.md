@@ -2,6 +2,6 @@
 
 ## 検証内容
 
-\[a\]\(verify/ble\)  
+[micro:bit の BLE に関する検証](verify/ble)  
 
 
