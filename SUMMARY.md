@@ -11,5 +11,5 @@
   * [導入](jiao-cai/dao-ru/README.md)
     * [絵をLEDに表示](jiao-cai/dao-ru/woledni.md)
     * [LEDアニメーション](jiao-cai/dao-ru/ledanimshon.md)
-    * [ボタン入力](jiao-cai/dao-ru/botan.md)
+    * [ボタン入力](jiao-cai/dao-ru/input-button.md)
 
