@@ -13,4 +13,6 @@
     * [LEDアニメーション](material/first-step/led-animation.md)
     * [ボタン入力](material/first-step/input-button.md)
     * [基本ブロック](material/first-step/burokku.md)
+  * [アートチャレンジ](material/art-challenge/README.md)
+    * [花火アニメーション](material/art-challenge/fireworks.md)
 
