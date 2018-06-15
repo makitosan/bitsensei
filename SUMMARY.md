@@ -8,8 +8,8 @@
   * [micro:bit に使える output 拡張材料](sono/microbit-nieru-output.md)
 * [教材](material/README.md)
   * [MakeCodeについて](material/makecodenitsuite.md)
-  * [導入](material/dao-ru/README.md)
-    * [絵をLEDに表示](material/dao-ru/woledni.md)
-    * [LEDアニメーション](material/dao-ru/ledanimshon.md)
-    * [ボタン入力](material/dao-ru/input-button.md)
+  * [導入](material/first-step/README.md)
+    * [絵をLEDに表示](material/first-step/woledni.md)
+    * [LEDアニメーション](material/first-step/ledanimshon.md)
+    * [ボタン入力](material/first-step/input-button.md)
 
