@@ -6,5 +6,6 @@
 * [その他](misc/README.md)
   * [micro:bit の input/output を教材に活用するイメージ](misc/microbit-input-output.md)
   * [micro:bit に使える output 拡張材料](misc/microbit-output.md)
-* [教材](jiao-cai.md)
+* [教材](material.md)
+* [導入](ru.md)
 
