@@ -1,7 +1,3 @@
----
-description: MakeCode利用時の注意点等をまとめている
----
-
 # MakeCodeについて
 
 ## このページについて

@@ -1,7 +1,3 @@
----
-description: 'micro:bit の output が貧素なので使える材料をリストアップ'
----
-
 # micro:bit に使える output 拡張材料
 
 ## MakeCode でブロックがあるので簡単に使えるもの
