@@ -10,6 +10,6 @@
   * [MakeCodeについて](material/makecodenitsuite.md)
   * [導入](material/first-step/README.md)
     * [絵をLEDに表示](material/first-step/led-picture.md)
-    * [LEDアニメーション](material/first-step/ledanimshon.md)
+    * [LEDアニメーション](material/first-step/led-animation.md)
     * [ボタン入力](material/first-step/input-button.md)
 
