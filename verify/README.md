@@ -2,5 +2,5 @@
 
 ## 検証内容
 
-[micro:bit の BLE に関する検証](microbit-no-bluetooth-le-nishite.md)
+[micro:bit の BLE に関する検証](microbit-ble.md)
 
