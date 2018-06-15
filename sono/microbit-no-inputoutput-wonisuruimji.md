@@ -26,7 +26,7 @@ micro:bit を教材として活用する際に使える input/output をまと�
 * 無線（送信）
   * 他の micro:bit への無線送信
 
-### 既存 OUTPUT （LEDしか無いけど）の応用表現
+### 既存 OUTPUT （5x5 LEDのみ）の応用表現
 
 * LED
   * 表情として
