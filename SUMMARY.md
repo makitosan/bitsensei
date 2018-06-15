@@ -9,7 +9,7 @@
 * [教材](material/README.md)
   * [MakeCodeについて](material/makecodenitsuite.md)
   * [導入](material/first-step/README.md)
-    * [絵をLEDに表示](material/first-step/woledni.md)
+    * [絵をLEDに表示](material/first-step/led-picture.md)
     * [LEDアニメーション](material/first-step/ledanimshon.md)
     * [ボタン入力](material/first-step/input-button.md)
 
