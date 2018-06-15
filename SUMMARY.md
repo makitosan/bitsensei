@@ -12,4 +12,5 @@
     * [絵をLEDに表示](material/first-step/led-picture.md)
     * [LEDアニメーション](material/first-step/led-animation.md)
     * [ボタン入力](material/first-step/input-button.md)
+    * [基本ブロック](material/first-step/burokku.md)
 
