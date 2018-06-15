@@ -35,9 +35,11 @@ Mac OS X の最大接続数は6台らしかったのでその限界で検証す�
 #### 不可能なもの
 
 * 明度（明るさ）センサ
-* デバイスのSerial Number
-  * Device Information Service の Serial Number Characteristics は Web Bluetooth API の仕様として制限されているため取得できない。
-  * ただし、接続後の device オブジェクトから id 及び name が取得でき、その id はユニークっぽいので簡易認証には使えるのではないかなぁ・・・
+* Web Bluetooth API 使用時
+  * [Security and Privacy](https://webbluetoothcg.github.io/web-bluetooth/#security-and-privacy) の項目を参照 [blocklist](https://github.com/WebBluetoothCG/registries/blob/master/gatt_blocklist.txt) でアクセス不可能なUUIDが管理されている。
+  * デバイスのSerial Number
+    * Device Information Service の Serial Number Characteristics は Web Bluetooth API の仕様として制限されているため取得できない。
+    * ただし、接続後の device オブジェクトから id 及び name が取得でき、その id はユニークっぽいので簡易認証には使えるのではないかなぁ・・・
 
 ### 未検証
 
