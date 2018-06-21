@@ -3,6 +3,7 @@
 * [bit:sensei について](README.md)
 * [検証](verify/README.md)
   * [micro:bit の Bluetooth LE に関して](verify/microbit-ble.md)
+  * [micro:bit の USB について](verify/microbit-no-usb-nitsuite.md)
   * [MakeCodeについて](verify/about-makecode.md)
 * [その他](misc/README.md)
   * [micro:bit の input/output を教材に活用するイメージ](misc/microbit-input-output.md)
