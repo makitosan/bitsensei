@@ -17,5 +17,6 @@
   * [アートチャレンジ](material/art-challenge/README.md)
     * [花火アニメーション](material/art-challenge/fireworks.md)
 * [教室への導入](heno/README.md)
-  * [音楽](heno/yin.md)
+  * [音楽](heno/yin/README.md)
+    * [メリーさんの羊を用いたプログラミング思考](heno/yin/mersannowoitapuroguramingu.md)
 
