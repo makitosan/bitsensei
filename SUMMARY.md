@@ -16,7 +16,7 @@
     * [基本ブロック](material/first-step/basics.md)
   * [アートチャレンジ](material/art-challenge/README.md)
     * [花火アニメーション](material/art-challenge/fireworks.md)
-* [教室への導入](heno/README.md)
-  * [音楽](heno/yin/README.md)
-    * [メリーさんの羊を用いたプログラミング思考](heno/yin/mersannowoitapuroguramingu.md)
+* [教室への導入](classroom/README.md)
+  * [音楽](classroom/music/README.md)
+    * [メリーさんの羊を用いたプログラミング思考](classroom/music/hitsuji.md)
 
