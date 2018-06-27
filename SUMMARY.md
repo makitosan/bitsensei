@@ -16,5 +16,6 @@
     * [基本ブロック](material/first-step/basics.md)
   * [アートチャレンジ](material/art-challenge/README.md)
     * [花火アニメーション](material/art-challenge/fireworks.md)
-* [教室への導入](heno.md)
+* [教室への導入](heno/README.md)
+  * [音楽](heno/yin.md)
 
